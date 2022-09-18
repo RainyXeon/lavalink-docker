@@ -1,4 +1,4 @@
-FROM openjdk:10-jre-slim
+FROM openjdk:latest
 
 WORKDIR /opt/Lavalink
 

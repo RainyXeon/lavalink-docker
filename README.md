@@ -1,4 +1,4 @@
-# Lavalink-Dockerfile
+# Lavalink-Docker
 Contains the base files I use for setting up lavalink on a vps using docker.
 
 ## Examples of commands ran to build and run docker container.
